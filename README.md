@@ -1,8 +1,7 @@
 <h1>Valentin RONTEIX</h1>
-<h2>Freelance Fullstack Javascript Nodejs Developer & Devops</h2>
-Freelance Node Backend Devops. 3 years of experience.  
-Used to AWS, Docker, Terraform environment.  
-Loving ExpressJS and TDD.  
+<h2>Freelance Devops & Cloud Engineer</h2>
+Freelance Devops & Cloud Engineer. 5 years of experience.  
+Used to AWS, k8s, GCP, Terraform.  
 
 <h2>Social</h2>
 <a href="mailto:valentin.ronteix@ashudev.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
