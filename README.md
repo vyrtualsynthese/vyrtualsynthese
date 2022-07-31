@@ -1,6 +1,6 @@
 <h1>Valentin RONTEIX</h1>
 <h2>Freelance Devops & Cloud Engineer</h2>
-Freelance Devops & Cloud Engineer. 5 years of experience.  
+5 years of experience.  
 Used to AWS, k8s, GCP, Terraform.  
 
 <h2>Social</h2>
